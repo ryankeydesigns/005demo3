@@ -810,3 +810,28 @@ a {
   top: 0;
   background-image: url("../../../assets/images/background13.jpg");
 }
+.cid-vfZlKxd76y {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-vfZlKxd76y .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-vfZlKxd76y .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-vfZlKxd76y .video-wrapper iframe {
+  width: 100%;
+}
+.cid-vfZlKxd76y .mbr-section-title,
+.cid-vfZlKxd76y .mbr-section-subtitle,
+.cid-vfZlKxd76y .mbr-text {
+  text-align: center;
+}
